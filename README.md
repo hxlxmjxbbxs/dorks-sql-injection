@@ -1,2 +1,1 @@
-# dorks-sql-injection
-Lista de dorks para inyección SQL
+# Lista de dorks para inyección SQL
