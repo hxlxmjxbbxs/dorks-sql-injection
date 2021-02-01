@@ -2,6 +2,7 @@
 
 m_view.php?ps_db=
 productlist.php?tid=
+allinurl: /news.php?id=
 n_replyboard.php?typeboard=
 goods_detail.php?data=
 showsub.php?id=
